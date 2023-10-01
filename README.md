@@ -6,7 +6,14 @@
 
 <hr class="wp-block-separator has-alpha-channel-opacity">
 
+---
 
+
+* Tutorial: https://youtu.be/CzaHitewN-4
+* Tutorial: https://cryptodeeptech.ru/lattice-attack-249bits
+
+
+---
 
 <p>In our earliest work, we published an article on the topic&nbsp;<a href="https://cryptodeeptech.ru/lattice-attack" target="_blank" rel="noreferrer noopener"><strong>“LATTICE ATTACK”</strong></a>&nbsp;as a complete solution&nbsp;<strong><a href="https://cryptodeep.ru//doc/Hidden-Number-Problems.pdf" target="_blank" rel="noreferrer noopener">to the HNP [Hidden Number Problem]</a></strong>&nbsp;, but with the recent emergence of a new attack&nbsp;<a href="https://cryptodeeptech.ru/polynonce-attack" target="_blank" rel="noreferrer noopener"><strong>“POLYNONCE ATTACK”</strong></a>&nbsp;, we decided to supplement the article using&nbsp;<code>79 signatures ECDSA</code>.</p>
 
